@@ -1,4 +1,4 @@
-# Breast Cancer Recurrence Prediction Using Machine Learning
+<img width="635" height="125" alt="image" src="https://github.com/user-attachments/assets/338b4979-44e8-498f-a1bf-c8e793a5dbd8" /># Breast Cancer Recurrence Prediction Using Machine Learning
 
 This repository contains the full implementation of a research project focused on predicting breast cancer recurrence using machine learning techniques. Two publicly available datasets, **WDBC (Wisconsin Diagnostic Breast Cancer)** and **WPBC (Wisconsin Prognostic Breast Cancer)**, were used to evaluate the model performance under different experimental settings.
 
@@ -83,11 +83,8 @@ All models were **fine-tuned** for optimal performance.
 ---
 
 ## 📂 Repository Structure
-├── data/ # Raw and processed datasets
-├── results/ # Evaluation results and figures
-├── notebooks/ # Jupyter/Colab notebooks for experimentation
-├── Copy_of_UpdatedSegNet.ipynb Main script for WPBC and WDBC experiments
-└── README.md
+<img width="635" height="125" alt="image" src="https://github.com/user-attachments/assets/2e344ae7-eab9-46b7-b96e-c17fc088781d" />
+
 
 If you find this work helpful, please cite using the following format:
 Sharif, U. (2025). Machine Learning-based Prediction of Breast Cancer Recurrence using WPBC and WDBC Datasets. Unpublished Research.
