@@ -51,7 +51,7 @@ The model performs well on nuclei segmentation, retaining fine-grained spatial d
 **Getting Started**
   
 **1. Clone the Repository**  
-git clone https://github.com/yourusername/patchunet-nuclei-segmentation.git  
+git clone (https://github.com/musmansharif/SegNetModel.git)  
 cd patchunet-nuclei-segmentation  
 
 **2. Install Dependencies**  
