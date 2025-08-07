@@ -60,10 +60,18 @@ pip install -r requirements.txt
 **3. Train the Model**  
 python train.py  
 
-**Contributions** 
+**Contributions**   
+
 This project introduces:  
 A lightweight U-Net variant tailored for histopathological nuclei segmentation  
 
 A patch-based training pipeline that supports high-resolution images with limited resources  
 
 An efficient augmentation and splitting strategy to boost performance
+
+  Contact
+For any queries or collaborations, please contact:  
+📧 m.usman.sharif1995@gmail.com  
+🏫 Lecturer, Riphah International University, Islamabad  
+
+🔗 GitHub: @musmansharif
