@@ -51,9 +51,12 @@ Optimized for patch-wise input with reduced memory footprint
  
 **Encoder Module**  
 
-<img width="1194" height="769" alt="Model1 - Encoder" src="https://github.com/user-attachments/assets/e518f0cf-e729-4473-9593-44520b45a569" />  
-**BottleNeck Layer**  
-<img width="1191" height="470" alt="Model1 - Bottleneck" src="https://github.com/user-attachments/assets/de84b59c-bcad-46b8-94a3-30179998f4ab" />  
+<img width="1194" height="769" alt="Model1 - Encoder" src="https://github.com/user-attachments/assets/e518f0cf-e729-4473-9593-44520b45a569" />    
+
+**BottleNeck Layer**    
+
+<img width="1191" height="470" alt="Model1 - Bottleneck" src="https://github.com/user-attachments/assets/de84b59c-bcad-46b8-94a3-30179998f4ab" />    
+
 **Decoder Module**  
 <img width="1192" height="755" alt="Model1 - Decoder" src="https://github.com/user-attachments/assets/e9e06b4e-f4d2-4305-89c7-4582bbd9c3ad" />  
 
