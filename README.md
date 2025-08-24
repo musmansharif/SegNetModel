@@ -38,7 +38,9 @@ Skip Connections: Preserve spatial features
 Optimized for patch-wise input with reduced memory footprint      
 **Input and Pre-processing**  
 
-<img width="312" height="176" alt="image" src="https://github.com/user-attachments/assets/54c1aae0-0be7-4c8a-8aec-7d89c3e0d800" />    
+<img width="312" height="176" alt="image" src="https://github.com/user-attachments/assets/54c1aae0-0be7-4c8a-8aec-7d89c3e0d800" />      
+
+  
 **Patch Extraction and Input**  
 
 <img width="184" height="136" alt="patch extraction" src="https://github.com/user-attachments/assets/e5479243-8272-4157-bf35-652c358b7d0b" />  
