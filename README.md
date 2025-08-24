@@ -43,7 +43,10 @@ Optimized for patch-wise input with reduced memory footprint
   
 **Patch Extraction and Input**  
 
-<img width="184" height="136" alt="patch extraction" src="https://github.com/user-attachments/assets/e5479243-8272-4157-bf35-652c358b7d0b" />  
+<img width="184" height="136" alt="patch extraction" src="https://github.com/user-attachments/assets/e5479243-8272-4157-bf35-652c358b7d0b" />      
+
+**Process the images to the model**  
+
 <img width="602" height="166" alt="image" src="https://github.com/user-attachments/assets/9d509ab5-4c67-4440-9ff3-fa05c71bd7f0" />  
  
 **Encoder Module**  
